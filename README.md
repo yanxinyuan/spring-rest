@@ -1,6 +1,6 @@
 # spring-rest
 
-my new project
+my first new spring project
 
 This project is a seed for creating [Spring Boot][boot] [REST][rest]
 service projects.
